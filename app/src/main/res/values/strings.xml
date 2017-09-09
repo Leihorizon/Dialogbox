@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dialog box</string>
+    <string name="a0">提示</string>
+    <string name="a1">登录</string>
+    <string name="b0">登录</string>
+    <string name="b1">取消</string>
+    <string name="b5">取消</string>
+    <string name="user">editTextUserId</string>
+    <string name="pd">editTextPwd</string>
+</resources>
